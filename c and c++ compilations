@@ -1,0 +1,7 @@
+For C type:
+
+gcc hello.c -o hello
+
+For C++ type:
+
+g++ hello.cpp -o hello
