@@ -1,0 +1,7 @@
+ffplay comes as part of ffmpeg program. It allows the playing of mp3 files.
+
+  ffplay -nodisp 'Disc 1 - 10 - Confrontation.mp3'
+  
+  This allows the player to play without showing a display. 
+  
+  amixer set Master 50% set the volume to 50%
