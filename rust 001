@@ -1,0 +1,13 @@
+To update rust:
+rustup update
+
+To check the versio:
+rustc --version
+
+
+
+Cargo New Project:
+cargo new hello_cargo
+ cd hello_cargo
+ 
+ 
